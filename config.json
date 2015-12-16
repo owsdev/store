@@ -1,2 +1,7 @@
-{"email_to":"spencer@websupportdept.com","send_subject":"original","send_date":"no","send_user_agent":"no","send_http_referrer":"no",
-"user_email":"no"}
+{"email_to":"spencer@websupportdept.com",
+"send_subject":"original",
+"send_date":"no",
+"send_ip":"no",
+"send_user_agent":"no",
+"send_http_referrer":"no",
+"send_user_email":"no"}
