@@ -1,6 +1,6 @@
 {"email_to":"spencer.g.ows@gmail.com",
 "send_subject":"yes",
-"send_date":"no",
+"send_date":"yes",
 "send_ip":"yes",
 "send_user_agent":"no",
 "send_http_referrer":"no",
